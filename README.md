@@ -1,2 +1,0 @@
-# CollegeStarterPack
-ASP .NET Project
